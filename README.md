@@ -8,5 +8,5 @@ The idea is that the salt master can distribute the folders to new workers, make
 
 I have created the folder in salt and one bash file that I have tried locally on my VM. 
 I have also created a init.sls where is an apache update and the folder that I want to run. 
-This does not work yet tho. I get an error.
+I also made a pkg.installed for ssh which sould be useful incase the client dont know how to do anything.
 I decided to make all the .sh files first, run them locally and on tomorrows lesson get answers why I do not get it to work. 
