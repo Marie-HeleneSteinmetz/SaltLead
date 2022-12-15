@@ -1,4 +1,9 @@
 #SaltyLead
+This is the last assignment for Tero Karvinens Haaga-Helia Configuration Management Systems.
+You can visit the whole assignment and course info on: 
+https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/#comments
+
+I have used Ubuntu on Virtual Mmchine and have installed from before Salt-Master and minion on the same Machine.
 
 I work as a Technical Support Specialist at a SaaS company that offer VoIP(Voice over IP) in an Applikation and on an browser.
 The once using the applikation is from coldcalling sales ppl to inbound call using instanses (banks, healthdare etc. )
