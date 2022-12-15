@@ -1,4 +1,5 @@
 #SaltyLead
+
 This is the last assignment for Tero Karvinens Haaga-Helia Configuration Management Systems.
 You can visit the whole assignment and course info on: 
 https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/#comments
@@ -50,6 +51,8 @@ I will upload all the scripts when the issue has been resolved. At this moment t
  And in the Git on mu VM: 
  ![image](https://user-images.githubusercontent.com/117899860/207685917-bb160283-1076-43f8-b66b-990340418b47.png)
  I managed to get the Git to work with updating the VM.
+ 
+ 
 
 
 
