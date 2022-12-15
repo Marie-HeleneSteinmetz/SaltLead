@@ -5,7 +5,7 @@ https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/#comments
 
 I have used Ubuntu on Virtual Mmchine and have installed from before Salt-Master and minion on the same Machine.
 
-I work as a Technical Support Specialist at a SaaS company that offer VoIP(Voice over IP) in an Applikation and on an browser.
+I work as a Technical Support Specialist at a SaaS (Software as a Service) company that offer VoIP(Voice over IP) in an Applikation and on an browser.
 The once using the applikation is from coldcalling sales ppl to inbound call using instanses (banks, healthdare etc. )
 The idea of the assignment is based on the needs I have found in my everyday work. Sometimes ppl that work with the app isin't the most Technical and this sometimescasues a lot of extra work to give instrucrions on how to help me help them.
 This requre a lot of work to get them to download the application, right brower and the troubleshooting tools. Espesially if the person cannot even write in English.
